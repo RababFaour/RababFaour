@@ -17,7 +17,8 @@ Computer Science graduate interested in software development and software engine
 
 ## Projects
 
-### Interactive Travel Guide System
+### [Interactive Travel Guide System](https://github.com/RababFaour/Interactive-Travel-Guide-System)
+
 Software Engineering project focused on requirements analysis, UML diagrams, database design, user preferences, travel planning, and safety features.
 
 ## Currently
