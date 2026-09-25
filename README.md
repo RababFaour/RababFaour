@@ -1,16 +1,25 @@
-## Hi there 👋
 
-<!--
-**RababFaour/RababFaour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Rabab 👋
 
-Here are some ideas to get you started:
+Computer Science graduate interested in software development and software engineering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- C
+- C#
+- C++
+- Java
+- HTML
+- CSS
+- JavaScript
+- PHP
+- SQL
+
+## Projects
+
+### Interactive Travel Guide System
+Software Engineering project focused on requirements analysis, UML diagrams, database design, user preferences, travel planning, and safety features.
+
+## Currently
+
+I'm improving my programming skills through projects and looking for a software development internship where I can gain practical experience.
