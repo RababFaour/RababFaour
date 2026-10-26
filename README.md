@@ -7,7 +7,7 @@ Computer Science graduate interested in software development and software engine
 
 **Lebanese University - Faculty of Sciences, Nabatiyeh**  
 Computer Science - Graduate  
-2026 - 2027
+2025 - 2026
 
 Previously studied Management Information Systems (MIS).
 
