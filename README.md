@@ -22,6 +22,9 @@ Previously studied Management Information Systems (MIS).
 - JavaScript
 - PHP
 - SQL
+- Next.js 
+- React
+- TypeScript 
 
 ## Projects
 
