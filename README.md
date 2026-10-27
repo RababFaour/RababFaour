@@ -5,11 +5,9 @@ Computer Science graduate interested in software development and software engine
 
 ## Education
 
-**Lebanese University - Faculty of Sciences, Nabatiyeh**  
-Computer Science - Graduate  
+**Bachelor's Degree in Computer Science**  
+Lebanese University, Lebanon  
 2025 - 2026
-
-Previously studied Management Information Systems (MIS).
 
 ## Skills
 
