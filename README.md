@@ -32,6 +32,10 @@ Previously studied Management Information Systems (MIS).
 
 Software Engineering project focused on requirements analysis, UML diagrams, database design, user preferences, travel planning, and safety features.
 
+### [Yehia's Career Path](https://github.com/RababFaour/yehia-career-path)
+
+Developed a responsive web application designed to help recent Computer Science graduates organize and manage their job search.Technologies used:JavaScript, React, Next.js and Tailwind CSS.
+
 ## Certificates & Training
 
 - AI for Social Impact — Lebanese University / UNICEF GIL / DOT Lebanon, 2025 - Present
