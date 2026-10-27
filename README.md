@@ -36,8 +36,13 @@ Software Engineering project focused on requirements analysis, UML diagrams, dat
 
 Developed a responsive web application designed to help recent Computer Science graduates organize and manage their job search.Technologies used:JavaScript, React, Next.js and Tailwind CSS.
 
+### [Asta Preparation Dashboard](https://github.com/RababFaour/asta-mvp)
+
+The dashboard helps organize training tasks, track completion status, and monitor preparation progress through an interactive interface using MVP,PRD,MCP and POC.
+
 ## Certificates & Training
 
+- Bachelor's Degree in Computer Science at Lebanese University.
 - AI for Social Impact — Lebanese University / UNICEF GIL / DOT Lebanon, 2025 - Present
 - Cybersecurity Course — Cybran Community, Lebanese University, 2025 - Present
 - Capture The Flag (CTF) Cybersecurity Training — Semicolon Academy
