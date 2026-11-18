@@ -38,6 +38,12 @@ Developed a responsive web application designed to help recent Computer Science 
 
 The dashboard helps organize training tasks, track completion status, and monitor preparation progress through an interactive interface using MVP,PRD,MCP and POC.
 
+### [Employee Explorer Page](https://github.com/RababFaour/employee-explorer)
+
+Browsing employee profiles, their recent posts, and all posts in one place, with clear feedback while data loads, when it's empty, or when something fails.To practice choosing the right rendering (SSR or CSR) and data-fetching approach for each part of a Next.js app, and to handle loading, empty, and error states reliably.
+
+### []
+
 ## Certificates & Training
 
 - Bachelor's Degree in Computer Science at Lebanese University.
