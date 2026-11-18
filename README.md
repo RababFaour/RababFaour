@@ -42,7 +42,9 @@ The dashboard helps organize training tasks, track completion status, and monito
 
 Browsing employee profiles, their recent posts, and all posts in one place, with clear feedback while data loads, when it's empty, or when something fails.To practice choosing the right rendering (SSR or CSR) and data-fetching approach for each part of a Next.js app, and to handle loading, empty, and error states reliably.
 
-### []
+### [Nour Order Desk](https://github.com/RababFaour/nour-order-desk)
+
+Helping a small candle business take, track, update, and delete customer orders from one dashboard, with live counts of order status.To practice building a REST API with Next.js Route Handlers, validating input on the server (never trusting the client), and testing every endpoint with real results
 
 ## Certificates & Training
 
